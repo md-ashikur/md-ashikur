@@ -1,4 +1,5 @@
-# 🏄‍♂️ MD. ASHIKUR RAHMAN ![image](https://github.com/md-ashikur/md-ashikur/assets/71284265/3e23a073-18ab-4eab-b636-a4cda2c02b9f)
+# 🏄‍♂️ MD. ASHIKUR RAHMAN <img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/6705d8f4-0cec-4209-b1a9-f852736d37d2" style="width: 32px; height: 32px;" alt="emoji">
+
 
 
 I have specialized in creating user-friendly, responsive designs. I am confident that my skills and experience would be a valuable asset to you. I have a strong understanding of front-end development and am proficient in using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript and React. I am passionate about web development and enjoy working on projects that challenge me to think outside the box.
