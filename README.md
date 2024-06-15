@@ -42,38 +42,34 @@ I have specialized in creating user-friendly, responsive designs. I am confident
 <table style="width:100%">
   <tr>
     <td style="width:33%; padding: 5px;">
-      <div style="background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-         <a href="https://traveloo.vercel.app/" style="color: #0366d6; text-decoration: none;"><img src="./image/traveloo.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+      <div>
+         <a href="https://traveloo.vercel.app/" ><img src="./image/traveloo.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
         <h3>Traveloo</h3>
         <p>A travel website enabling global travel searches, hotel bookings.</p>
       </div>
     </td>
     <td style="width:33%; padding: 5px;">
-      <div style="background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-         <a href="https://jez-salad.web.app/" style="color: #0366d6; text-decoration: none;"><img src="./image/jezSalad.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
-        <h3>JEZ SALAD</h3>
+      <div>
+         <a href="https://jez-salad.web.app/" ><img src="./image/jezSalad.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+        <h3>Jez Salad</h3>
         <p>A responsive ReactJS based Restaurant website.</p>
       </div>
     </td>
-    <td style="width:33%; padding: 5px;">
-      <div style="background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-         <a href="https://meetoapp.netlify.app/" style="color: #0366d6; text-decoration: none;"><img src="./image/meetoApp.png" alt="meetoApp Image" style="width: 100%; border-radius: 5px;"></a>
-        <h3>MeetoApp</h3>
-        <p>A responsive ReactJS based Social media website.</p>
+     <td style="width:33%; padding: 5px;">
+      <div>
+         <a href="https://meetoapp.netlify.app/" ><img src="./image/meetoApp.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+     <h3>Meeto app</h3>
+       <p>A responsive ReactJS based Social media website.</p>
       </div>
     </td>
   </tr>
 </table>
 
 
-
-
 # 📊 GitHub Stats:
 
  <img style="width:50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=md-ashikur&theme=vue-dark&hide_border=true" alt="md-ashikur's GitHub Stats" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ashikur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="md-ashikur's GitHub Stats" />
    <img  style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=md-ashikur&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="md-ashikur's GitHub Stats" />
-
-
 
 
 ## 🏆 GitHub Trophies
