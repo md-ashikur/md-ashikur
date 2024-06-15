@@ -1,4 +1,4 @@
-# <img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/bf853cfe-6430-41aa-b9b2-60ef661c3b9a" style="width: 52px; height: 52px;" alt="emoji"> MD. ASHIKUR RAHMAN 
+# <img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/fc107bf0-214f-4410-9bf3-641fe5382cf3" style="width: 70px; height: 70px;" alt="emoji"> MD. ASHIKUR RAHMAN 
 
 
 
