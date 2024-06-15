@@ -1,6 +1,6 @@
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+<div style="display: flex; align-items: center; ">
     <img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/fc107bf0-214f-4410-9bf3-641fe5382cf3" style="width: 70px; height: 70px;" alt="emoji">
-    <p>MD. ASHIKUR RAHMAN</p>
+    # MD. ASHIKUR RAHMAN 
 </div>
 
 
