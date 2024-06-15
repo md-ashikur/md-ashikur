@@ -1,44 +1,46 @@
+## My Portfolio
+
+[![My Webpage](./image/portfolio.png)](https://mdashik.vercel.app)
+
 # <h1 align="center" ><img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/6caf2ecc-e97c-4b44-aa05-3396e4f60e2a" style="width: 50px; height: 50px;" alt="emoji"> MD. ASHIKUR RAHMAN </h1>
 <h3 align="center" >React Developer | Frontend Developer | MERN Stack Developer | Competitive Programmer</h3>
  <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/sudheer-jonna-b9009142/">
+    <a href="https://www.linkedin.com/in/md-ashikur-rahman/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/SudheerJonna">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://x.com/mdashik_1">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://www.sudheerjonna.com">
-      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
+    <a href="https://www.facebook.com/ashikur.rahman999">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Blog Badge"/>
     </a>
   </div>
 
 I have specialized in creating user-friendly, responsive designs. I am confident that my skills and experience would be a valuable asset to you. I have a strong understanding of front-end development and am proficient in using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript and React. I am passionate about web development and enjoy working on projects that challenge me to think outside the box.
 
  
-## My Portfolio
 
-[![My Webpage](./image/portfolio.png)](https://mdashik.vercel.app)
 
 
 ## Latest Projects
 
 <table style="width:100%">
   <tr>
-    <td style="width:33%; padding: 10px;">
+    <td style="width:33%; padding: 5px;">
       <div style="background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
          <a href="https://traveloo.vercel.app/" style="color: #0366d6; text-decoration: none;"><img src="./image/traveloo.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
         <h3>Traveloo</h3>
         <p>A travel website enabling global travel searches, hotel bookings, and user authentication.</p>
       </div>
     </td>
-    <td style="width:33%; padding: 10px;">
+    <td style="width:33%; padding: 5px;">
       <div style="background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
          <a href="https://traveloo.vercel.app/" style="color: #0366d6; text-decoration: none;"><img src="./image/traveloo.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
         <h3>Traveloo</h3>
         <p>A travel website enabling global travel searches, hotel bookings, and user authentication.</p>
       </div>
     </td>
-    <td style="width:33%; padding: 10px;">
+    <td style="width:33%; padding: 5px;">
       <div style="background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
          <a href="https://traveloo.vercel.app/" style="color: #0366d6; text-decoration: none;"><img src="./image/traveloo.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
         <h3>Traveloo</h3>
