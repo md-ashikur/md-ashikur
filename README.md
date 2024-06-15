@@ -57,7 +57,7 @@ I have specialized in creating user-friendly, responsive designs. I am confident
     </td>
     <td style="width:33%; padding: 5px;">
       <div style="background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-         <a href="https://meetoapp.netlify.app/" style="color: #0366d6; text-decoration: none;"><img src="./image/traveloo.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+         <a href="https://meetoapp.netlify.app/" style="color: #0366d6; text-decoration: none;"><img src="./image/meetoApp.png" alt="meetoApp Image" style="width: 100%; border-radius: 5px;"></a>
         <h3>MeetoApp</h3>
         <p>A responsive ReactJS based Social media website.</p>
       </div>
