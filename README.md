@@ -1,5 +1,5 @@
-# 🏄‍♂️ <img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/fc107bf0-214f-4410-9bf3-641fe5382cf3" style="width: 70px; height: 70px;" alt="emoji"> MD. ASHIKUR RAHMAN
-
+# <img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/fc107bf0-214f-4410-9bf3-641fe5382cf3" style="width: 70px; height: 70px;" alt="emoji"> MD. ASHIKUR RAHMAN
+###React developer | Frontend developer | MERN stack developer | Competitive Programmer
 
 I have specialized in creating user-friendly, responsive designs. I am confident that my skills and experience would be a valuable asset to you. I have a strong understanding of front-end development and am proficient in using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript and React. I am passionate about web development and enjoy working on projects that challenge me to think outside the box.
 
