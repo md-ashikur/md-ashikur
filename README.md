@@ -1,7 +1,3 @@
-## My Portfolio
-
-[![My Webpage](./image/portfolio.png)](https://mdashik.vercel.app)
-
 # <h1 align="center" ><img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/6caf2ecc-e97c-4b44-aa05-3396e4f60e2a" style="width: 50px; height: 50px;" alt="emoji"> MD. ASHIKUR RAHMAN </h1>
 <h3 align="center" >React Developer | Frontend Developer | MERN Stack Developer | Competitive Programmer</h3>
  <div id="badges" align="center">
@@ -20,7 +16,9 @@ I have specialized in creating user-friendly, responsive designs. I am confident
 
  
 
+## My Portfolio
 
+[![My Webpage](./image/portfolio.png)](https://mdashik.vercel.app)
 
 ## Latest Projects
 
