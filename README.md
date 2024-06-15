@@ -1,6 +1,16 @@
-# <img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/6caf2ecc-e97c-4b44-aa05-3396e4f60e2a" style="width: 50px; height: 50px;" alt="emoji"> MD. ASHIKUR RAHMAN 
-#### <p style="color: #00FFFF;">React Developer | Frontend Developer | MERN Stack Developer | Competitive Programmer</p>
-
+# <h1 align="center" ><img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/6caf2ecc-e97c-4b44-aa05-3396e4f60e2a" style="width: 50px; height: 50px;" alt="emoji"> MD. ASHIKUR RAHMAN </h1>
+<h3 align="center" >React Developer | Frontend Developer | MERN Stack Developer | Competitive Programmer</h3>
+ <div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/sudheer-jonna-b9009142/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/SudheerJonna">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.sudheerjonna.com">
+      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Badge"/>
+    </a>
+  </div>
 
 I have specialized in creating user-friendly, responsive designs. I am confident that my skills and experience would be a valuable asset to you. I have a strong understanding of front-end development and am proficient in using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript and React. I am passionate about web development and enjoy working on projects that challenge me to think outside the box.
 
