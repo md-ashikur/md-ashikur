@@ -15,11 +15,38 @@
 I have specialized in creating user-friendly, responsive designs. I am confident that my skills and experience would be a valuable asset to you. I have a strong understanding of front-end development and am proficient in using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript and React. I am passionate about web development and enjoy working on projects that challenge me to think outside the box.
 
  
-## My Webpage
+## My Portfolio
 
 [![My Webpage](./image/portfolio.png)](https://mdashik.vercel.app)
 
-Check out my [website](https://mdashik.vercel.app) for more details.
+
+## Latest Projects
+
+<table style="width:100%">
+  <tr>
+    <td style="width:33%; padding: 10px;">
+      <div style="background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+         <a href="https://traveloo.vercel.app/" style="color: #0366d6; text-decoration: none;"><img src="./image/traveloo.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+        <h3>Traveloo</h3>
+        <p>A travel website enabling global travel searches, hotel bookings, and user authentication.</p>
+      </div>
+    </td>
+    <td style="width:33%; padding: 10px;">
+      <div style="background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+         <a href="https://traveloo.vercel.app/" style="color: #0366d6; text-decoration: none;"><img src="./image/traveloo.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+        <h3>Traveloo</h3>
+        <p>A travel website enabling global travel searches, hotel bookings, and user authentication.</p>
+      </div>
+    </td>
+    <td style="width:33%; padding: 10px;">
+      <div style="background-color: #f9f9f9; border: 1px solid #ddd; border-radius: 5px; padding: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+         <a href="https://traveloo.vercel.app/" style="color: #0366d6; text-decoration: none;"><img src="./image/traveloo.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+        <h3>Traveloo</h3>
+        <p>A travel website enabling global travel searches, hotel bookings, and user authentication.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 #### :hammer_and_wrench: Languages and Tools :
