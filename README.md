@@ -1,4 +1,4 @@
-# 🏄‍♂️ MD. ASHIKUR RAHMAN <img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/6705d8f4-0cec-4209-b1a9-f852736d37d2" style="width: 32px; height: 32px;" alt="emoji">
+# <img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/6705d8f4-0cec-4209-b1a9-f852736d37d2" style="width: 52px; height: 52px;" alt="emoji"> MD. ASHIKUR RAHMAN 
 
 
 
