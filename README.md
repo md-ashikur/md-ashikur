@@ -11,8 +11,13 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Blog Badge"/>
     </a>
   </div>
+  
+###
+<h3 align="left">🧑‍💻  About Me</h3>
 
-I have specialized in creating user-friendly, responsive designs. I am confident that my skills and experience would be a valuable asset to you. I have a strong understanding of front-end development and am proficient in using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript and React. I am passionate about web development and enjoy working on projects that challenge me to think outside the box.
+###
+<p align="left">- 🔭 I’m working as React Developer<br>- 🎯 I'm currently learning Python<br>- ♟️ In my free time I play cricket</p>
+
 
 ## :hammer_and_wrench: Skills
 <div>
@@ -32,6 +37,8 @@ I have specialized in creating user-friendly, responsive designs. I am confident
     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="40" height="40">
      <img src="https://github.com/onemarc/tech-icons/blob/main/icons/firebase-light.svg" width="40" height="40">
 </div>
+
+###
 
 ## My Portfolio
 
