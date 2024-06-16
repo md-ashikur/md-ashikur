@@ -14,23 +14,23 @@
 
 I have specialized in creating user-friendly, responsive designs. I am confident that my skills and experience would be a valuable asset to you. I have a strong understanding of front-end development and am proficient in using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript and React. I am passionate about web development and enjoy working on projects that challenge me to think outside the box.
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Skills
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="=VueJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" width="40" height="40">
+
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="40" height="40" >
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bootstrap-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/cpp-light.svg" width="40" height="40">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="40" height="40">
+     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/firebase-light.svg" width="40" height="40">
 </div>
 
 ## My Portfolio
