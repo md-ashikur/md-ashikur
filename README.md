@@ -14,7 +14,7 @@
 
 I have specialized in creating user-friendly, responsive designs. I am confident that my skills and experience would be a valuable asset to you. I have a strong understanding of front-end development and am proficient in using HTML, CSS, Bootstrap, Tailwind CSS, JavaScript and React. I am passionate about web development and enjoy working on projects that challenge me to think outside the box.
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -66,7 +66,7 @@ I have specialized in creating user-friendly, responsive designs. I am confident
 </table>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
  <img style="width:50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=md-ashikur&theme=vue-dark&hide_border=true" alt="md-ashikur's GitHub Stats" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ashikur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="md-ashikur's GitHub Stats" />
    <img  style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=md-ashikur&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="md-ashikur's GitHub Stats" />
