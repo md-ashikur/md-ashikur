@@ -1,66 +1,86 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21986
-Fork on GitHub
-7010
+# <h1 align="center" ><img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/6caf2ecc-e97c-4b44-aa05-3396e4f60e2a" style="width: 50px; height: 50px;" alt="emoji"> MD. ASHIKUR RAHMAN </h1>
+<h3 align="center" >React Developer | Frontend Developer | MERN Stack Developer | Competitive Programmer</h3>
+ <div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/md-ashikur-rahman/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://x.com/mdashik_1">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.facebook.com/ashikur.rahman999">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Blog Badge"/>
+    </a>
+  </div>
+  
+###
+<h3 align="left">🧑‍💻  About Me</h3>
 
-back to edit
+###
+<p align="left">- 🔭 I’m working as React Developer<br>- 🎯 I'm currently learning Python<br>- ♟️ In my free time I play cricket</p>
 
-copy-markdown
 
-download markdown
+## :hammer_and_wrench: Skills
+<div>
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/node.svg" width="40" height="40">
 
-download backup
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="40" height="40" >
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/bootstrap-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-dark.svg" width="40" height="40">
+   <img src="https://github.com/onemarc/tech-icons/blob/main/icons/cpp-light.svg" width="40" height="40">
+    <img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="40" height="40">
+     <img src="https://github.com/onemarc/tech-icons/blob/main/icons/firebase-light.svg" width="40" height="40">
+</div>
 
-preview
-<h1 align="center">Hi 👋, I'm Ashik</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqur0&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqur0" /> </p>
+## My Portfolio
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiqur0" alt="ashiqur0" /></a> </p>
+[![My Webpage](./image/portfolio.png)](https://mdashik.vercel.app)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## Latest Projects
 
-- 🌱 I’m currently learning **cpp**
+<table style="width:100%">
+  <tr>
+    <td style="width:33%; padding: 5px;">
+      <div>
+         <a href="https://traveloo.vercel.app/" ><img src="./image/traveloo.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+        <h3>Traveloo</h3>
+        <p>A travel website enabling global travel searches, hotel bookings.</p>
+      </div>
+    </td>
+    <td style="width:33%; padding: 5px;">
+      <div>
+         <a href="https://jez-salad.web.app/" ><img src="./image/jezSalad.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+        <h3>Jez Salad</h3>
+        <p>A responsive ReactJS based Restaurant website.</p>
+      </div>
+    </td>
+     <td style="width:33%; padding: 5px;">
+      <div>
+         <a href="https://meetoapp.netlify.app/" ><img src="./image/meetoApp.png" alt="Project 1 Image" style="width: 100%; border-radius: 5px;"></a>
+     <h3>Meeto app</h3>
+       <p>A responsive ReactJS based Social media website.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-- 💬 Ask me about **react, web development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📊 GitHub Stats:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+ <img style="width:50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=md-ashikur&theme=vue-dark&hide_border=true" alt="md-ashikur's GitHub Stats" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ashikur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="md-ashikur's GitHub Stats" />
+   <img  style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=md-ashikur&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="md-ashikur's GitHub Stats" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqur0&show_icons=true&locale=en&layout=compact" alt="ashiqur0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiqur0&show_icons=true&locale=en" alt="ashiqur0" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=md-ashikur&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqur0&" alt="ashiqur0" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+---
+[![](https://visitcount.itsvg.in/api?id=md-ashikur&icon=0&color=0)](https://visitcount.itsvg.in)
