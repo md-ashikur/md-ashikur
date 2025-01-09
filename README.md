@@ -1,4 +1,4 @@
-# <h1 align="center" ><img src="https://github.com/md-ashikur/md-ashikur/assets/71284265/6caf2ecc-e97c-4b44-aa05-3396e4f60e2a" style="width: 50px; height: 50px;" alt="emoji"> MD. ASHIKUR RAHMAN </h1>
+# <h1 align="center" >Hi. I'm MD. ASHIKUR RAHMAN </h1>
 <h3 align="center" >React Developer | Frontend Developer | MERN Stack Developer | Competitive Programmer</h3>
  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/md-ashikur-rahman/">
@@ -75,8 +75,9 @@
 
 ## 📊 GitHub Stats:
 
- <img style="width:50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=md-ashikur&theme=vue-dark&hide_border=true" alt="md-ashikur's GitHub Stats" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ashikur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="md-ashikur's GitHub Stats" />
-   <img  style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=md-ashikur&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="md-ashikur's GitHub Stats" />
+ ![md-ashikur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-ashikur&theme=vue-dark&hide_border=true)
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-ashikur&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="md-ashikur's GitHub Stats" />
+ <img  style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=md-ashikur&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="md-ashikur's GitHub Stats" />
 
 
 ## 🏆 GitHub Trophies
